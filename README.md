@@ -195,13 +195,4 @@ Finance Analytics/
 
 ---
 
-## 📌 Author
 
-**Nihala R I**  
-_MSc Data Science & Analytics_  
-_Data Scientist at Softroniics, Calicut_
-
-##  Acknowledgements
-
-This project is based on the Excel Finance Analytics case study taught in the [Codebasics YouTube channel](https://www.youtube.com/@codebasics).  
-All modeling, pivot configuration, and formatting were independently implemented by me.
